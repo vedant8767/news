@@ -1,0 +1,14 @@
+@media screen and (max-device-width: 480px) 
+    and (orientation: portrait) {
+        .specific_cat{
+            /* height: 50px;
+            width: 100px; */
+            background-color: lightgreen;
+            color: black;
+            font-weight: bold;
+            border-radius: 10px;
+            padding: 12px;
+            margin-top: 20px;
+            font-size: 3vh;
+        }
+}

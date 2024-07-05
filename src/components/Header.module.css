@@ -1,0 +1,18 @@
+nav{
+    height: 8vh;
+    width: 100%;
+    /* background-color: aqua; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    padding-top: 5px;
+    font-size: 5vh;
+    font-weight: bolder;
+    color: rgb(129, 34, 129);
+}
+span{
+    color: rgb(50, 146, 50);
+}
